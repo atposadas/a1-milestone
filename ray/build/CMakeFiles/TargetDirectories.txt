@@ -1,0 +1,3 @@
+/u/atpix/Documents/computer graphics/graphics - assignment 1/ray/build/CMakeFiles/rebuild_cache.dir
+/u/atpix/Documents/computer graphics/graphics - assignment 1/ray/build/CMakeFiles/edit_cache.dir
+/u/atpix/Documents/computer graphics/graphics - assignment 1/ray/build/CMakeFiles/ray.dir
